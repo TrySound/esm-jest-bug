@@ -1,0 +1,11 @@
+{
+  "name": "esm-jest-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "@std/esm": "cjs",
+  "dependencies": {
+    "@std/esm": "^0.18.0",
+    "jest": "^22.0.4"
+  }
+}
